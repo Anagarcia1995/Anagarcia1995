@@ -22,14 +22,14 @@ Disfruto transformando ideas en aplicaciones funcionales y optimizando la experi
 
 ---
 
-**Desarrolladora Web – Startups.st** *(Jun 2025 – Ago 2025, Remoto)*  
+**Desarrolladora Web – Startups.st** *(Jun – Ago 2025, Remoto)*  
 - Rediseño del sitio web corporativo en **WordPress**, haciendo la web **100% responsive**.  
 - Adaptación rápida a un entorno real de desarrollo y aplicación de conocimientos prácticos de formación.  
 - Optimización de UX, rendimiento y estética de la plataforma online.
 
 ---
 
-**Desarrollo y Programación Web** – Codespace Academy | 2024/2025  
+**Desarrollo y Programación Web** – Codespace Academy | 2024 – 2025  
 - Proyecto Final: Aplicación **Full Stack** completa, integrando Front-End, Back-End y principios DevOps.  
 
 **Cursos Complementarios (IMFE):**  
@@ -40,4 +40,4 @@ Disfruto transformando ideas en aplicaciones funcionales y optimizando la experi
 ---
 
 💬 https://www.linkedin.com/in/ana-garc%C3%ADa-hidalgo-89a839349/
-✉️ anagahi95@icloud.com
+✉️ anagahi1212@gmail.com

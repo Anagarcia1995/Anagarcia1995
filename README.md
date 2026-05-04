@@ -1,11 +1,10 @@
-👋 ¡Hola! Soy Ana 
+👋 ¡Hola! Soy Ana  
 
-💻 **Desarrolladora Web Full Stack** | Apasionada por crear interfaces funcionales y aplicaciones escalables.  
+💻 **Desarrolladora Web Full Stack** con experiencia en desarrollo de aplicaciones, automatización de procesos y lógica de negocio en entornos reales.  
 
-Soy curiosa, adaptable y con visión multidisciplinar. Me motiva aprender rápido, enfrentar nuevos retos y aportar valor en proyectos tecnológicos.
-Disfruto transformando ideas en aplicaciones funcionales y optimizando la experiencia de usuario.
+Trabajo tanto en Front-End como en Back-End, desarrollando soluciones funcionales, escalables y orientadas a resolver problemas concretos.  
 
-🚀 Mi objetivo es seguir creciendo en el sector tech, combinando Front-End y Back-End para desarrollar soluciones robustas y eficientes.
+🚀 Actualmente enfocada en seguir creciendo en el sector tech, especialmente en desarrollo backend, sistemas y aplicaciones con lógica compleja.
 
 ---
 
@@ -22,6 +21,22 @@ Disfruto transformando ideas en aplicaciones funcionales y optimizando la experi
 
 ---
 
+### IcneaConnector – Plugin para FacturaScripts
+
+Desarrollo de un plugin orientado a la automatización de facturación a partir de reservas (CSV - ICNEA).
+
+**Funcionalidades principales:**
+- Importación y validación de datos desde CSV  
+- Generación automática de borradores de facturas (P y Q)  
+- Integración con modelos ERP (clientes, empresas, impuestos)  
+- Gestión de lógica de negocio (duplicados, estados, reemplazos)  
+- Gestión de impuestos (IVA / IGIC)  
+- Integración con Verifactu para envío fiscal mediante cron  
+
+**Stack:** PHP, MySQL, FacturaScripts
+
+---
+
 **Desarrolladora Web – Startups.st** *(Jun – Ago 2025, Remoto)*  
 - Rediseño del sitio web corporativo en **WordPress**, haciendo la web **100% responsive**.  
 - Adaptación rápida a un entorno real de desarrollo y aplicación de conocimientos prácticos de formación.  
@@ -33,9 +48,8 @@ Disfruto transformando ideas en aplicaciones funcionales y optimizando la experi
 - Proyecto Final: Aplicación **Full Stack** completa, integrando Front-End, Back-End y principios DevOps.  
 
 **Cursos Complementarios (IMFE):**  
-- HTML5 y CSS3 – 40 h  
-- Fundamentos de Programación en Python – 50 h  
-- Inglés Comercial – 40 h  
+- HTML5 y CSS3
+- Fundamentos de Programación en Python
 
 ---
 

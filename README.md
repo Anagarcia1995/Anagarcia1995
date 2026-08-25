@@ -4,7 +4,7 @@
 
 Me gusta desarrollar aplicaciones completas, desde la interfaz de usuario hasta la API y la base de datos, creando soluciones funcionales y enfocadas en resolver problemas reales.
 
-🚀 Actualmente continúo ampliando mis conocimientos mediante proyectos Full Stack y explorando nuevas tecnologías.
+🚀 Actualmente continúo ampliando mis conocimientos mediante proyectos Full Stack, explorando nuevas tecnologías y consolidando mi experiencia en desarrollo web.
 
 🌐 **Portfolio:** https://anagarcia-portfolio.vercel.app/
 
@@ -33,9 +33,8 @@ Me gusta desarrollar aplicaciones completas, desde la interfaz de usuario hasta 
 
 ## 🚀 Proyectos destacados
 
-### ANL – Plataforma Full Stack para artistas y eventos
-
-Aplicación web Full Stack desarrollada para la gestión de eventos y lanzamientos musicales.
+### 🎵 Art No Logia
+Plataforma Full Stack desarrollada para la gestión de contenido de un proyecto musical, incluyendo eventos, lanzamientos y contenido multimedia.
 
 **Funcionalidades principales:**
 - Autenticación mediante JWT
@@ -46,49 +45,45 @@ Aplicación web Full Stack desarrollada para la gestión de eventos y lanzamient
 - Diseño responsive
 - Despliegue de frontend y backend
 
-**Stack:** React, Vite, Chakra UI, Node.js, Express, MongoDB, Cloudinary, Vercel y Render.
+**Stack:** React, Vite, Chakra UI, Node.js, Express, MongoDB, JWT, Cloudinary, Vercel y Render.
 
 ---
 
-### IcneaConnector – Plugin ERP para FacturaScripts
-
-Plugin desarrollado para automatizar procesos de facturación a partir de datos de reservas importados mediante CSV.
+### ⚙️ ERP – Plugin para FacturaScripts
+Plugin desarrollado para automatizar procesos de facturación a partir de datos de reservas importados mediante archivos CSV.
 
 **Funcionalidades principales:**
-- Importación y validación de archivos CSV
-- Procesamiento y sincronización de datos
-- Generación automática de documentos de facturación
-- Integración con clientes, propiedades e impuestos
-- Gestión de estados, duplicados y reemplazos
+- Importación, validación y procesamiento de archivos CSV
+- Automatización de procesos de facturación
+- Generación automática de documentos
+- Integración y sincronización de clientes, propiedades e información de facturación
+- Gestión de estados, duplicados e impuestos
 - Integración con Verifactu para envío fiscal
 
 **Stack:** PHP, MySQL y FacturaScripts.
 
 ---
 
-## 💼 Experiencia
+### 🎧 SONORO
+Plataforma musical Full Stack desarrollada para trabajar con contenido musical, usuarios e integración con servicios externos.
 
-### Desarrolladora Web – Startups.st
-**Jun 2025 – Ago 2025 · Remoto**
+**Funcionalidades principales:**
+- Autenticación mediante JWT
+- Gestión de usuarios
+- API REST
+- Integración con Spotify API
+- Persistencia de datos con MongoDB
+- Interfaz responsive
+- Arquitectura frontend y backend separada
 
-- Rediseño del sitio web corporativo en WordPress.
-- Adaptación responsive para distintos dispositivos.
-- Colaboración en un entorno real de desarrollo y adaptación a las necesidades del proyecto.
+**Stack:** React, JavaScript, CSS3, Node.js, Express, MongoDB, JWT y Spotify API.
 
 ---
 
 ## 🎓 Formación
 
-**Desarrollo y Programación Web – Codespace Academy**  
-2024 – 2025
-
-- Desarrollo Frontend y Backend.
-- APIs REST y bases de datos.
-- Proyecto final Full Stack.
-
-**Cursos complementarios – IMFE**
-- HTML5 y CSS3
-- Fundamentos de Programación en Python
+**Desarrollo y Programación Web – Codespace Academy** | 2024 – 2025  
+Formación Full Stack en desarrollo frontend, backend, APIs REST y bases de datos.
 
 ---
 
